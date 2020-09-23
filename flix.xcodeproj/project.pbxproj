@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -168,7 +168,6 @@
 				6B3F1941DD6B63FA59B4BFBE /* Pods-flixTests.debug.xcconfig */,
 				A7CAA53F44F15BE14D040930 /* Pods-flixTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
