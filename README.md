@@ -13,7 +13,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] User can view the movie poster image for each movie.
 
 #### BONUS
-- [x] User can view the app on various device sizes and orientations.
+- [x] User can view the app on various device sizes.
 - [x] App functions on a real device.
 
 ### App Walkthrough GIF
@@ -21,5 +21,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Some challenges encountered while building the app:
-- Auto layout and constraint setting process for the table view style was very interesting to tackle.
-- Need to figure out how to automatically adjust to landscape orientation for label sizes
+- Auto layout and constraint setting process for the table view was very interesting to tackle.
+- Need to figure out how to automatically adjust views to landscape orientation
