@@ -36,7 +36,7 @@ None for this section
 - [x] App functions on a real device.
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/1TU1RO7qBE.gif" width=250><br>
+<img src="http://g.recordit.co/esGIOOW5lR.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
