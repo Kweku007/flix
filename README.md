@@ -18,6 +18,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/Zg2a7Qfr45.gif" width=250><br>
 <img src="http://g.recordit.co/v1fwESYkyW.gif" width=250><br>
 
+---
+
 ## Flix Part 1
 
 ### User Stories
@@ -38,5 +40,3 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 Describe any challenges encountered while building the app.
 ---
-- Auto layout and constraint setting process for the table view was very interesting to tackle.
-- Had issues figuring out how to automatically adjust views to landscape orientation
