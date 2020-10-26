@@ -44,10 +44,21 @@ class MovieDetailsViewController: UIViewController {
         
         backdropView.af.setImage(withURL: backdropUrl!)
         
+    
+        
         
     }
     
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        // Get the new view controller using segue.destination.
+        // Pass the selected object to the new view controller.
+        
+        
+        // Pass selected movie to details view controller
+        let moviedetailsViewController = segue.destination as! WebViewController
+        moviedetailsViewController.movie = movie
 
+    }
     /*
     // MARK: - Navigation
 
