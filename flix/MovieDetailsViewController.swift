@@ -37,6 +37,7 @@ class MovieDetailsViewController: UIViewController {
         let posterUrl = URL(string : baseUrl + posterPath)
         
         posterView.af.setImage(withURL: posterUrl!)
+        posterView.isUserInteractionEnabled = true
         
         let backdropPath = movie["backdrop_path"] as! String
         let backdropUrl = URL(string : "https://image.tmdb.org/t/p/w780" + backdropPath)
